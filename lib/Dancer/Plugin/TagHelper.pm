@@ -12,11 +12,11 @@ Dancer::Plugin::TagHelper - Useful routines for generating HTML for use with Dan
 
 =head1 VERSION
 
-Version 0.01
+Version 0.01_1
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.01_1';
 
 
 =head1 SYNOPSIS
@@ -80,7 +80,7 @@ Please report any bugs or feature requests to C<bug-dancer-plugin-taghelper at r
 the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Dancer-Plugin-TagHelper>.  I will be notified, and then you'll
 automatically be notified of progress on your bug as I make changes.
 
-By now, you must set template in C<config.yml>, but not set by C<< set template => ''>> in c<<MyApp.pm>>.
+By now, you must set template in C< config.yml >, but not set by C< set template => ''> in C< MyApp.pm >.
 
 
 =head1 SUPPORT

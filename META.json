@@ -39,11 +39,11 @@
          }
       }
    },
-   "release_status" : "stable",
+   "release_status" : "testing",
    "resources" : {
       "repository" : {
          "url" : "https://github.com/chenryn/Dancer-Plugin-TagHelper.git"
       }
    },
-   "version" : "0.01"
+   "version" : "0.01_1"
 }
