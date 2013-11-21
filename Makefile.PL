@@ -21,6 +21,7 @@ WriteMakefile(
     },
     PREREQ_PM => {
         'Dancer'          => 0,
+        'Moose'           => 0,
         'HTML::TagHelper' => 0,
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },

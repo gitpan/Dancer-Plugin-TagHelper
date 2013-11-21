@@ -9,9 +9,8 @@ examples/views/index.tt
 examples/config.yml
 t/boilerplate.t
 t/manifest.t
-t/pod.t
-t/pod-coverage.t
 t/00-load.t
+t/pod.t
 MANIFEST
 
 META.yml                                 Module YAML meta-data (added by MakeMaker)
